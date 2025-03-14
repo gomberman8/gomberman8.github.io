@@ -7,6 +7,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-image: url("assets/bg grad.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #root {
@@ -23,4 +27,8 @@ h1 {
 .fa {
     color: white;
     margin: 0 1rem;
+}
+
+.shadow {
+    text-shadow: #121212 3px 3px 3px;
 }

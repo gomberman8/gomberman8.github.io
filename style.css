@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url("assets/bg grad.png");
+    background-image: url("bg grad.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
